@@ -1,27 +1,18 @@
 # The Static Web HTML + CSS Quiz
 
 ## Setup
-
-When you are ready to start the quiz, request the Github Classroom link from your instructor.  
-+ Once your repository is created on GitHub, execute the following command in your terminal:  
++ Once your repository is created on GitHub, you will see the *Quick Setup* page.
++ Copy the commands for the section labeled **…or create a new repository on the command line**
++ Then execute the following command in your terminal:
 
 ```bash
 mkdir -p ~/workspace/quizzes/static-web/html && cd $_
 ```
 
-+ You will now be inside your project folder and can intialize a local repo for your project with 
-```bash
-git init
-```
-+ Now run the following commands:
-```bash
-git remote add origin (plus your GitHUb repo address, ie https://github.com/nss-day-cohort-13/static-web-html-css-quiz-JoeShep)
-git pull origin master
-```
++ Paste the commands you copied from GitHub into your terminal and press **return** to make sure the last command gets executed.
++ Now run the following commands.
 
-Now you've connected your remote and local repos and are ready to get to work. All of your quiz work should be on a branch, NOT on master. To do this, type:
-
-```bash
+```
 git checkout -b quiz
 touch index.html
 touch quiz.css
@@ -68,4 +59,5 @@ Your task is to build a grid of cards for a company's products. Here's the requi
 
 Here's an image that shows how the cards should appear.
 
-![Static Web Quiz Example](https://github.com/nashville-software-school/front-end-milestones/blob/master/the-static-web/quizzes/static-web-quiz.png)
+![Static Web Quiz Example](static-web-quiz.png)
+# static-web-javascript-quiz-AlanE23
