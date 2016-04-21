@@ -1,0 +1,113 @@
+/* Card Sales CSS */
+
+/* Styling for whole page */
+body {
+  margin: auto;
+}
+
+.wrapper {
+  margin: 2%;
+  padding-left: 1.5em;
+}
+
+/* Card styling */
+.card {
+  display: inline-block;
+  width: 30%;
+  border: 1px solid lightblue;
+  vertical-align: top;
+  margin: 1%;
+}
+
+.header {
+  border: 1px dotted lightgray;
+}
+
+/* image styling */
+img {
+  width: 80%;
+  margin: auto;
+  display: table-cell;
+  alignment: center;
+  vertical-align: middle;
+}
+
+/* Text Styling */
+
+h1 {
+  text-align: center;
+}
+
+.pDescription {
+  text-align: justify;
+  margin: 2%;
+}
+
+.divAvail {
+  width: 100%;
+  background-color: darkgrey;
+}
+
+.pAvail {
+  color: yellow;
+}
+
+.specs, .pricingInfo {
+  font-weight: bold;
+  margin-left: 5%;
+}
+
+.validity {
+  font-size: .75em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
